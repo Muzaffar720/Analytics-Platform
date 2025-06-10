@@ -24,8 +24,8 @@ This project focuses on analyzing e-commerce sales data to uncover business insi
 ---
 
 ## 🧰 Tools & Technologies
--**Python**
--**Statistic**
+- **Python**
+- **Statistic**
 - **Excel**
 - **Data Cleaning & Transformation**
 
