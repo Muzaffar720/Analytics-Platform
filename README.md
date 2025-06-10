@@ -31,6 +31,16 @@ This project focuses on analyzing e-commerce sales data to uncover business insi
 
 ---
 
+## 📞 Contact
 
+If you want to collaborate or have any feedback, feel free to connect with me:
 
+- 📧 Email: [amrmuzaffar46@gmail.com](mailto:amrmuzaffar46@gmail.com)  
+- 💼 LinkedIn: [Muzaffar on LinkedIn](https://www.linkedin.com/in/muzaffar-muzammil-242b37323)
+
+---
+
+## 📷 Sample Dashboard Preview
+
+![Dashboard Preview](dashboard-image.png)
 
