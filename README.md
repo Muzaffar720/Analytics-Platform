@@ -17,15 +17,15 @@ This project focuses on analyzing e-commerce sales data to uncover business insi
 
 ## 📌 Key Highlights
 
-- Created interactive dashboards using **Power BI**
-- Used **DAX** for calculated fields and KPIs
+- Created interactive dashboards using **Python with Libraries**
 - Enabled **slicer filters** for dynamic analysis
 - Improved visibility into business performance across regions and categories
 
 ---
 
 ## 🧰 Tools & Technologies
-
+-**Python**
+-**Statistic**
 - **Excel**
 - **Data Cleaning & Transformation**
 
