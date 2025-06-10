@@ -42,5 +42,5 @@ If you want to collaborate or have any feedback, feel free to connect with me:
 
 ## 📷 Sample Dashboard Preview
 
-![Dashboard image](dashboard-image.png)
+![Dashboard Preview](dashboard_image.png)
 
